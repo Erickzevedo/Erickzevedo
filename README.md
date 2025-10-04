@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Erickzevedo
 - 👀 I’m interested in games, music and books
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and data analysis
 - 💞️ I’m looking to collaborate on learning news skills
 - 📫 How to reach me erickmathzevedo@gmail.com
 - 😄 Pronouns: he/him
